@@ -1,6 +1,5 @@
 # NodeJsSimpleBlog
 This is NodeJS application named Simple Blog developed by Archit Gajjar.
 
-#Node version
+#Nodeversion
 7.10
-
